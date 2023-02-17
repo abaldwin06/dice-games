@@ -1,0 +1,20 @@
+h1 {
+    margin-left: 3vw;
+}
+
+section {
+    margin: 3vh 5vw;
+    display: grid;
+    grid-gap: 10px;
+    align-items: center;
+}
+
+#gamesetup {
+    grid-template-columns: repeat(2,20%);
+    grid-template-rows: repeat(3,30%); 
+}
+
+#gamesetup button {
+    grid-column: 1 / span 2;
+    justify-self: center;
+}

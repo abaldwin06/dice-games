@@ -9,16 +9,17 @@ A way to play my favorite dice games on a computer
 - Oneday: That's So Clever
 
 ## Feature order
-- Setup screen
-- Setup dice colors and player names
-- Setup game play mode
-- Dice rolling feature
-- Adjust score feature
-- Freeze specific dice feature
-- Farkle scoreboard
-- Yahtzee scoreboard
-- Quixx scoreboard
-- Quinto scoreboard
-- TSC scoreboard 
+[x] Setup screen
+[] Create dice and players
+[] Setup dice colors and player names
+[] Setup game play mode
+[] Dice rolling feature
+[] Adjust score feature
+[] Freeze specific dice feature
+[] Farkle scoreboard
+[] Yahtzee scoreboard
+[] Quixx scoreboard
+[] Quinto scoreboard
+[] TSC scoreboard 
  - add bonus class
  - add layout
